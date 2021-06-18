@@ -12,6 +12,8 @@ kaldi/egs/swbd/s5c/local/chain/tuning/run_tdnn_7p and kaldi/egs/swbd/s5c/local/c
 and some parameters about Kaldi's layer are writen in 
 kaldi/egs/swbd/s5c/steps/libs/nnet3/xconfig/composite_layers.py
 
+experiements about tdnnf can be seen in kaldi/egs/.../.../run_tdnn_xx
+
 Lots of codes in this project inherit from [cvqluu/Factorized-TDNN](https://github.com/cvqluu/Factorized-TDNN/blob/master/README.md). I has to say Thanks to him.
 
 ---

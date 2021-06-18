@@ -1,0 +1,6 @@
+
+TDNN:
+  output_dim: 4500
+  num_layers: 11
+  large_dim: 1536
+  bottle_dim: 256
